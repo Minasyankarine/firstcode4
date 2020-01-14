@@ -6,7 +6,7 @@ public class firstcode {
 
         {
 
-            System.out.println("jinkins Hello World");
+            System.out.println("Hello World");
 
         }
 
